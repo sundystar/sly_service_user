@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bocean>
+	<node name="hmc_product" type="master" for="rdb">
+		<node-property name="driverClassName" value="com.mysql.jdbc.Driver" />
+		<node-property name="url" value="jdbc:mysql://127.0.0.1:3306/sys?useUnicode=true&amp;characterEncoding=utf8" />
+		<node-property name="username" value="root" />
+		<node-property name="password" value="1234" />
+	</node>
+	<!-- druid-pool 连接池 参数 -->
+	<!-- 初始化连接数 -->
+	<property name="pool_initialSize" value="10" />
+	<!-- 最大并发连接数 -->
+	<property name="pool_maxActive" value="30" />
+	<!-- 最小空闲连接数 -->
+	<property name="pool_minIdle" value="1" />
+	<!-- 获取连接等待超时的时间 -->
+	<property name="pool_maxWait" value="10000" />
+	<!-- 对于建立连接过长的连接强制关闭 -->
+	<property name="pool_removeAbandoned" value="true" />
+	<!-- 连接归还超时时间，单位：秒 -->
+	<property name="pool_removeAbandonedTimeout" value="300" />
+	<!-- 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒 -->
+	<property name="pool_timeBetweenEvictionRunsMillis" value="10000" />
+	<!-- 空闲时间超过多久，将被回收 单位毫秒 -->
+	<property name="pool_minEvictableIdleTimeMillis" value="30000" />
+	<!-- 用来检测连接是否有效的sql -->
+	<property name="pool_testOnBorrow" value="false" />
+	<property name="pool_testOnReturn" value="false" />
+	<property name="pool_testWhileIdle" value="true" />
+	<property name="pool_validationQuery" value="SELECT 'x'" />
+	<!-- 
+	<property name="pool_poolPreparedStatements" value="flase" />
+	<property name="pool_maxPoolPreparedStatementPerConnectionSize" value="255" /> -->
+	<!-- 配置监控统计拦截的filters，去掉后监控界面sql无法统计 -->
+	<property name="pool_filters" value="stat" />
+
+	<!-- 解密密码必须要配置的项
+		<property name="filters" value="config" />
+		<property name="connectionProperties" value="config.decrypt=true" /> -->
+
+</bocean>
