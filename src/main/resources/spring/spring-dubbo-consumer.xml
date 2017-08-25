@@ -4,11 +4,5 @@
             http://www.springframework.org/schema/beans/spring-beans.xsd  
             http://code.alibabatech.com/schema/dubbo  
             http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
-		<!-- 消费方应用名，用于计算依赖关系，不是匹配条件，不要与提供方一样
-	<dubbo:application name="hmc-consumer-ware" /> 
-    <dubbo:registry protocol="zookeeper" address="${dubbo.registry.address}" check="false" />
-    <dubbo:consumer check="false" timeout="10000" />-->
- 	<!-- 4s店接口 -->
-	<dubbo:reference  interface="com.xuanyan.hmc.merchant.facade.inner.FsInfoInner" id="fsInfoInner" check="false" />
-	
+            
 </beans>  
