@@ -33,5 +33,6 @@
 
 	<import resource="classpath:spring/spring-datasource-rdb.xml" />
 	<import resource="classpath:spring/spring-dubbo-provider.xml" />
+	<import resource="classpath:spring/spring-elasticsearch.xml" />
 
 </beans>

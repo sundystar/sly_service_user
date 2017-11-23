@@ -1,0 +1,23 @@
+{
+	"index" : {
+	    "analysis" : {
+	        "analyzer" : {
+	            "synonym" : {
+	                "tokenizer" : "ik_smart",
+	                "filter" : ["remote_synonym","local_synonym"]
+ 	           }
+	        },
+	        "filter" : {
+	            "remote_synonym" : {
+	                "type" : "dynamic_synonym",
+	                "synonyms_path" : "http://static.haomaiche.com/common/images/type/e6269e0eac3943d29b383daa61dfc610.txt",
+	                "interval": 30
+	            },
+	            "local_synonym" : {
+	                "type" : "dynamic_synonym",
+	                "synonyms_path" : "synonym.txt"
+	            }
+	        }
+	    }
+	}
+}

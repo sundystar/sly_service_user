@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sly.facade.manager.mapper.BooksMapper">
+	
+	<resultMap type="com.sly.facade.crawer.model.CrawerModel" id="trainRecordResultMap">  
+	    <id column="id" property="id" jdbcType="INTEGER" />  
+	    <result column="bookid" property="bookId" jdbcType="VARCHAR" />  
+	    <result column="img" property="img" jdbcType="VARCHAR" />  
+	    <result column="title" property="title" jdbcType="VARCHAR" />  
+	    <result column="author" property="author" jdbcType="VARCHAR" />  
+	    <result column="price_num" property="price_num" jdbcType="VARCHAR" />  
+	    <result column="price_tail" property="price_tail" jdbcType="VARCHAR" />  
+	    <result column="price_r_num" property="price_r_num" jdbcType="VARCHAR" />  
+	    <result column="price_r_tail" property="price_r_tail" jdbcType="VARCHAR" />  
+	    <result column="href" property="href" jdbcType="VARCHAR" />  
+	    <result column="content" property="content" jdbcType="VARCHAR" />  
+	    <result column="press" property="press" jdbcType="VARCHAR" />  
+	    <result column="pressDate" property="pressDate" jdbcType="VARCHAR" />  	    
+	    <result column="isHot" property="isHot" jdbcType="TINYINT" />  
+	    <result column="type" property="type" jdbcType="TINYINT" />  
+	    <result column="isNew" property="isNew" jdbcType="TINYINT" />  
+	    <result column="commonsNum" property="commonsNum" jdbcType="INTEGER" />  
+	    <result column="create_date" property="createDate" jdbcType="TIMESTAMP" />  
+	    <result column="book_source" property="bookSource" jdbcType="VARCHAR" />  
+	</resultMap> 
+	
+	<!-- batchInsert -->
+	<insert id="insertBooks" parameterType="java.util.List">  
+
+		insert into books
+		(id,bookid,img,title,author,
+		price_num,price_tail,price_r_num,price_r_tail,href,
+		content,isHot,isNew,create_date,press,pressDate,type,commonsNum,book_source)
+		values
+		<foreach collection="list" item="item" index="index" separator="," > 
+			(#{item.id},#{item.bookId},#{item.img},#{item.title},#{item.author},
+			#{item.price_num},#{item.price_tail},#{item.price_r_num},#{item.price_r_tail},#{item.href},
+			#{item.content},#{item.isHot},#{item.isNew},#{item.createDate},#{item.press},
+			#{item.pressDate},#{item.type},#{item.commonsNum},#{item.bookSource})
+		</foreach>
+	</insert>
+</mapper>

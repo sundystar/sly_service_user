@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sly.facade.manager.mapper.BooksTypeMapper">
+	
+	<resultMap type="com.sly.facade.crawer.model.BookType" id="trainRecordResultMap">  
+	    <id column="id" property="id" jdbcType="VARCHAR" />  
+	    <result column="parent" property="parentId" jdbcType="VARCHAR" />  
+	    <result column="typeName" property="typeName" jdbcType="VARCHAR" />  
+	    	<result column="orderN" property="order" jdbcType="VARCHAR" />  
+	    	<result column="weight" property="weight" jdbcType="TINYINT" />  
+	    	<result column="status" property="status" jdbcType="TINYINT" />  
+	    
+	</resultMap> 
+	
+	<!-- batchInsert -->
+	<insert id="insertBooksType" parameterType="java.util.List">  
+
+		insert into booktype
+		(id,parent,typeName,orderN,weight,status)
+		values
+		<foreach collection="list" item="item" index="index" separator="," > 
+			(#{item.id},#{item.parentId},#{item.typeName},#{item.order},#{item.weight},#{item.status})
+		</foreach>
+	</insert>
+</mapper>

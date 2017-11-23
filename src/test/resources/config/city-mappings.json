@@ -1,0 +1,19 @@
+{
+  "city": {
+    "_all": {
+      "enabled": true
+    },
+    "properties": {
+      "description": {
+        "type":"text",
+        "analyzer":"synonym",
+        "search_analyzer": "synonym"
+      },
+      "name":{
+        "type":"text",
+        "analyzer":"synonym",
+        "search_analyzer":"synonym"
+      }
+    }
+  }
+}

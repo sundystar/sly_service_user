@@ -1,0 +1,907 @@
+        <div class="appl_main-content" style="margin: 0 auto; background-color:#FFFFFF; max-width:745px">
+            <table cellspacing="0" cellpadding="0" border="0" width="745" align="center" class="appl_section appl_100 owa_bg_color ipad">
+                <tbody>
+                    <tr>
+                        <td class="appl_section_intro appl_100" style="background: #f8f8f8; text-align:center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                            <img class="appl_intro_logo" height="25" style="height:25px; width:auto; margin:70px 0 0;" src="http://static-its-images.apple.com/images/appstore/kenobi/logo-appstore.png" alt="App Store">
+                            <h1 style="margin: 15px auto 20px;font-weight:700;font-size:55px" class="appl_header">欢迎来到全新<br/>App&nbsp;Store</h1>
+                            <p class="appl_section_copy appl_header_padding" style="line-height:1.5;font-size: 17px">探索 App 和游戏世界，还有什么比这更让人开心的呢？全新设计的 App Store 有了更多丰富内容与资讯，让你轻松找到心头所好，快来看看吧！</p>
+                            <!--[if mso lte 15]><br /><![endif]-->
+                            <a class="appl_section_cta" href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0t5a7i1N" style="color: #1199FA" target="_blank">开始体验<img class="appl_inline_chevron" height="10" style="height: 10px; width:auto;" src="http://a1.phobos.apple.com/au/r30/Features71/v4/ba/f1/f2/baf1f2f6-588b-c3bb-375a-1c0856a8baae/mza_1113504921234589156.png" alt=""></a>
+                        </td>
+                    </tr>
+                    <tr>
+
+                      <!--[if gte mso 9]>
+                      <td style="background-color:#f8f8f8; margin-top:15px;">
+                      <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U7V7H0v" style="default" target="_blank"><img class="apple_intro_img" width="700"  style=" height: auto;" src="http://a651.phobos.apple.com/us/r30/Features118/v4/4f/8c/ea/4f8cea84-758d-5c0f-1cf8-a96c72ac02c3/mza_1619501880696175357.jpg" alt="Today"></a>
+                      <![endif]-->
+                      <!--[if !mso]><!-->
+                      <td width="100%">
+                        <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U7V7H0v" style="default" target="_blank"><img class="apple_intro_img owa_img" width="591" style="width: 100%; height: auto;display:block;" src="http://a651.phobos.apple.com/us/r30/Features118/v4/4f/8c/ea/4f8cea84-758d-5c0f-1cf8-a96c72ac02c3/mza_1619501880696175357.jpg" alt="Today"></a>
+                      <!--<![endif]-->
+                      </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="745" class="appl_100 ipad" align="center" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td class="appl_story2_wrap" style="background-color: #FFFFFF; padding: 0 105px 15px; text-align:center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                            <!--[if mso lte 15]><br><br><![endif]-->
+                            <img width="30" style="margin: 60px auto 20px;" src="http://static-its-images.apple.com/images/appstore/kenobi/icn-webpage.png" alt="" class="appl_icn">
+                            <h2 class="appl_header" style="font-weight:700;font-size:27px;">Today</h2>
+                            <p class="appl_section_copy" style="margin: 20px 0 0">也许你不知道，App Store 拥有一支专业编辑团队，他们的任务就是将 App 世界的无限精彩展现在你眼前。每天他们都会为你带来有趣故事、幕后花絮，或是各种实用技巧和秘诀。</p>
+                            <div class="appl_section_cta">
+                                <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0X2w3v2v" style="color: #1199FA" target="_blank">即刻浏览<img class="appl_inline_chevron" height="10" style="height: 10px; width:auto;" src="http://a1.phobos.apple.com/au/r30/Features71/v4/ba/f1/f2/baf1f2f6-588b-c3bb-375a-1c0856a8baae/mza_1113504921234589156.png" alt=""></a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                      <!--[if mso gte 9]>
+                      <td align="center" width="745" style="margin-left:20px; margin-right:20px;">
+                        <img width="565" class="appl_story2" src="http://a624.phobos.apple.com/au/r30/Features118/v4/60/64/50/606450b1-6afb-7632-f8e0-1eb06c0c7e6e/mza_5165670098731286979.jpg" alt="App Store" style="height:auto; margin: 0 auto; display:block;">
+                      <![endif]-->
+                      <!--[if !mso]><!-->
+                        <td class="appl_four_img">
+                          <img class="appl_story2" src="http://a624.phobos.apple.com/au/r30/Features118/v4/60/64/50/606450b1-6afb-7632-f8e0-1eb06c0c7e6e/mza_5165670098731286979.jpg" alt="App Store" style="width: 100%; height:auto; margin: 0 auto; display:block;">
+                      <!--<![endif]-->
+                      </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="745" align="center" cellspacing="0" cellpadding="0" border="0" class="appl_section_2up appl_100 ipad" style="background-color:#FFFFFF; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                <tbody>
+                    <tr>
+                        <td>
+                            <table cellspacing="0" cellpadding="0" border="0" class="appl_section appl_section_games appl_owa" style="display:inline-block;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                                <tbody>
+                                    <tr>
+                                        <td style="width:100%;">
+                                            <!--[if mso lte 15]><br><br>
+                                            <table style="padding-left:50px;">
+                                                <tr>
+                                                    <td><img width="65" src="http://static-its-images.apple.com/images/pixel.png"></td>
+                                                    <td>
+                                                        <img width="466" src="http://a800.phobos.apple.com/us/r30/Features128/v4/d2/e8/10/d2e81007-82b4-bfc9-c8a0-4f5aeef10efa/mza_8052589853983303944.jpg" alt="游戏" style="width: auto; height: 466px;">
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <![endif]-->
+                                            <!--[if !mso]><!-->
+                                            <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2g5w3W7Y" target="_blank"><img class="appl_games_img gmail_games" height="466" src="http://a800.phobos.apple.com/us/r30/Features128/v4/d2/e8/10/d2e81007-82b4-bfc9-c8a0-4f5aeef10efa/mza_8052589853983303944.jpg" alt="游戏" style="min-width:250px !important;float:left; width: auto; height: 466px; margin-top:60px;display:block;"></a>
+                                            <!--<![endif]-->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                      <!--[if mso lte 15]>
+                                      <td width="290" class="appl_games_mob" style="padding-left:115px; padding-bottom:15px;">
+                                      <![endif]-->
+                                      <!--[if !mso]><!-->
+                                      <td class="appl_games_mob">
+                                      <!--<![endif]-->
+                                            <img width="32" src="http://static-its-images.apple.com/images/appstore/kenobi/icn-rocket.png" alt="games" class="appl_icn">
+                                            <h2 class="appl_header">游戏</h2>
+                                            <p class="appl_2up_gutter_copy" style="padding:0 35px 0 50px">这里是玩家的乐园。无论随便逛逛，还是寻求新挑战，每一个人都能够遇见属于自己的游戏。</p>
+                                            <!--[if mso lte 15]>
+                                            <br />
+                                            <![endif]-->
+                                            <a class="appl_2up_cta appl_section_cta" style="display:block; width: auto" href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0A0I7J6T" target="_blank">探索游戏<img class="appl_inline_chevron" height="10" style="height: 10px; width:auto;" src="http://a1.phobos.apple.com/au/r30/Features71/v4/ba/f1/f2/baf1f2f6-588b-c3bb-375a-1c0856a8baae/mza_1113504921234589156.png" alt=""></a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <table align="left" cellspacing="0" cellpadding="0" border="0" class="appl_section appl_section_apps appl_100 appl_owa" style="display:inline-block;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <!--[if mso lte 15]>
+                                            <br><br>
+                                            <table style="padding-left:50px;">
+                                                <tr>
+                                                    <td><img width="65" src="http://static-its-images.apple.com/images/pixel.png"></td>
+                                                    <td>
+                                                        <img width="466" src="http://a922.phobos.apple.com/us/r30/Features128/v4/2b/f5/bb/2bf5bbd5-c0ab-c559-1f85-e6fdc16c96be/mza_2670448849852373911.jpg" alt="apps" style="width: auto; height: 466px;">
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        <![endif]-->
+                                            <!--[if !mso]><!-->
+                                            <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0j4n0c5k" target="_blank"><img class="appl_app_img gmail_app" height="466" src="http://a922.phobos.apple.com/us/r30/Features128/v4/2b/f5/bb/2bf5bbd5-c0ab-c559-1f85-e6fdc16c96be/mza_2670448849852373911.jpg" alt="App" style="min-width:250px !important;float:left; width: auto; height: 466px; margin-top:60px;margin-left:47px; display:block;"></a>
+                                            <!--<![endif]-->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                      <!--[if mso lte 15]>
+                                      <td width="290" class="appl_apps_mob" style="padding-left:175px; padding-bottom:15px;">
+                                  <![endif]-->
+                                      <!--[if !mso]><!-->
+                                      <td class="appl_apps_mob">
+                                      <!--<![endif]-->
+                                            <img width="32" src="http://static-its-images.apple.com/images/appstore/kenobi/icn-apps.png" alt="apps" class="appl_icn">
+                                            <h2 class="appl_header">App</h2>
+                                            <p class="appl_2up_gutter_copy" style="padding:0 30px 0 45px">App 早已融入我们生活的方方面面。你可以在编辑精心打造的专属页面中，轻松找到心仪 App。</p>
+                                            <!--[if mso lte 15]>
+                                            <br />
+                                            <![endif]-->
+                                            <a class="appl_2up_cta appl_section_cta" style="display:block;width: auto" href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2R4l0r4h" target="_blank">探索 App<img class="appl_inline_chevron" height="10" style="height: 10px; width:auto;" src="http://a1.phobos.apple.com/au/r30/Features71/v4/ba/f1/f2/baf1f2f6-588b-c3bb-375a-1c0856a8baae/mza_1113504921234589156.png" alt=""></a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <!--[if mso gte 9]>
+            <table width="745" align="center" class="appl_section_footer" style="background-color:#F8F8F8; margin: 0 auto; padding-top: 40px;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                <tbody>
+                    <tr>
+            <td style="padding-top:38px" class="appl_footer_social_wrap small_mobile_width">
+            <![endif]-->
+                      <!--[if !mso]><!-->
+                      <table width="745" align="center" class="appl_section_footer" style="background-color:#F8F8F8; width: 100%; margin: 0 auto; padding-top: 40px;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                          <tbody>
+                              <tr>
+                      <td style="padding-top:38px" class="appl_footer_social_wrap small_mobile_width">
+                      <!--<![endif]-->
+                      <table width="90%" class="appl_subscribe appl_owa" align="center" style="float:left;margin: 0 40px;">
+                          <tbody>
+                              <tr>
+                                  <td style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 700; font-size: 20px; padding-left:25px; line-height: 1.2;">
+                                      <img width="55" src="http://static-its-images.apple.com/images/appstore/kenobi/icn-mail-badge.png" style="margin-bottom: 10px;width:55px;height:auto;" alt="email badge">
+                                      <span style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"><br>精选 App 和游戏，直达你的收件箱。</span>
+                                  </td>
+                              </tr>
+                              <tr>
+                                <!--[if mso lte 15]>
+                                <td style="padding-left:25px; padding-top:10px;">
+                               <![endif]-->
+                               <!--[if !mso]><!-->
+                               <td style="padding-left:25px;">
+                               <!--<![endif]-->
+                                  <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2R2B2U6C" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; display: block; margin-top: 10px; margin-bottom:38px; font-weight: 400;font-size:16px" target="_blank"><br />订阅电子邮件<img class="appl_inline_chevron" height="10" style="height: 10px; width:auto;" src="http://a1.phobos.apple.com/au/r30/Features71/v4/ba/f1/f2/baf1f2f6-588b-c3bb-375a-1c0856a8baae/mza_1113504921234589156.png" alt=""></a>
+                                </td>
+                              </tr>
+
+                          </tbody>
+                      </table>
+
+                            <table width="745" align="center" class="appl_footer_store small_mobile_width" style="clear:both; width: 100%; background-color:#e8e8e8; text-align:center; padding: 20px 0;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding-top:30px;">
+                                            <img width="59" height="72" src="http://static-its-images.apple.com/images/appstore/kenobi/icn-appstore.png" style="display: block; height: 72px;width: auto; vertical-align: top; padding-top: 12px; margin: 0 auto" alt="app store">
+                                            <!--[if mso lte 15]><br><![endif]-->
+                                            <span class="appl_new_app" style="line-height:1.1;margin: 20px 0;font-weight:700; font-size:32px;display:block">全新 App&nbsp;Store</span>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                        <!--[if gte mso 9]>
+                                          <table cellspacing="0" cellpadding="0" border="0" width="325" style="vertical-align:top;">
+                                            <tr>
+                                              <td align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:10px 0px;display:block;text-align:center;background:#1683f8;">
+                                                <a href="#" style="color:#FFFFFF; font-weight:700;">全新 App&nbsp;Store</a>
+                                              </td>
+                                            </tr>
+                                          </table>
+                                        <![endif]-->
+                                        <!--[if !mso]><!-->
+                                        <td style="padding-bottom:30px;">
+                                          <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0A4w2n1Y" class="appl_cta" style="cursor:pointer;text-decoration:none;border-radius: 30px; background-color: #1683f8; color: #FFFFFF;display: inline-block;margin: 0 auto; padding: 10px 25px">总有你更喜欢的 App</a>
+                                        </td>
+                                        <!--<![endif]-->
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+</div>
+
+<div class="footer-sub owa_bg_color" style="min-width:300px !important;background-color:#f2f2f2;">
+  <!--[if mso lte 15]>
+  <table width="745" cellspacing="0" cellpadding="0" border="0" class="appl_footer" align="center" style="max-width:745px;margin: 0 auto; font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f2f2f2">
+<![endif]-->
+  <!--[if !mso]><!-->
+  <table cellspacing="0" cellpadding="0" border="0" class="appl_footer ipad" align="center" style="min-width:0px; max-width:745px;margin: 0 auto; font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f2f2f2">
+  <!--<![endif]-->
+            <tbody>
+                <tr>
+                    <td style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+                        <table class="appl_footer_inner appl_100" align="center" style="max-width:745px;margin: 0 auto; padding-bottom: 40px; background-color:#f2f2f2">
+                            <tbody>
+                                <tr>
+                                    <td class="appl_footer_container" style="max-width:745px;padding-top:20px;">
+                                        <table cellspacing="0" cellpadding="0" border="0" width="100%" align="center" style="margin:0 auto; max-width:745px;" class="appl_100">
+                                            <tbody>
+                                              <tr>
+                                                <td style="font-size:10px;text-align:center;font-weight: 400;line-height: 1.2; color:#999999; -webkit-text-size-adjust:none; padding: 0 20px 15px 20px">
+                                                  某些内容要求特定的硬件或软件。需连接互联网，可能产生流量费用。内容价格与提供可能会发生变化。有关更多信息，请参阅 <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/itunes/">www.apple.com/cn/itunes/</a>。 <br/><br/>
+如果您不想收到来自我们的电子邮件，或者更改了您的电子邮件地址，请<a style="color:#555555;text-decoration:none;" href="https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=3EmBKns2xK%2F1F4Y7sjielOd9j8wpamwYoKFuLgZGHk63aX8U3OsFZB5IBw5Ws91r3N8TD4MfX5pqVfNOFTbOnQWIRXrTVUh2%2FMWA4zti2%2BtNYk6cRrnQQocfxVoaNZ6l1MCmYWjFV0qJU1eWTj794CmO49j9yZDaX9sz6fDLJ7yb%2BuhL8mhi2Ss%2BIDzp4kh6">点击这里</a>。
+                                                </td>
+                                              </tr>
+                                                <tr>
+                                                    <td class="macro_footer_disclaimer" style="font-size:10px;text-align:center;font-weight: 400;line-height: 1.2; color:#999999; -webkit-text-size-adjust:none; padding: 0 20px 15px 20px">
+                                                        <p style="margin: 5px 0; font-size:10px;">某些功能、应用程序和服务可能仅适用于部分地区或语言。</p>
+                                                        <br>
+                                                        <p class="appl_copyright" style="text-align:center;margin-bottom: 25px;font-weight:400 font-size:10px;">版权所有 &copy; 2017 Apple Distribution International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td align="center" style="margin:0 auto; padding-bottom:30px;">
+                                      <table class="gmail_footer" cellspacing="0" cellpadding="0" border="0" align="center" style="display:inline-block;">
+                                          <tbody>
+                                              <tr>
+                                                  <td>
+                                                    <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0r7n5H5T" class="border_right" style="padding:0 5px;color:#999999; font-size:12px; white-space:nowrap; text-decoration: none" target="_blank">隐私政策</a>
+                                                  </td>
+                                                  <td>
+                                                    <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0r5w5a9p" class="border_right" style="padding:0 5px;color:#999999; font-size:12px; white-space:nowrap; text-decoration: none" target="_blank">条款与条件</a>
+                                                  </td>
+                                                  <td>
+                                                    <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0y5E4L7Y" class="border_right no_mobile_border" style="padding:0 5px;color:#999999; font-size:12px; white-space:nowrap; text-decoration: none" target="_blank">技术支持</a>
+                                                  </td>
+                                              </tr>
+                                          </tbody>
+                                      </table>
+
+                                      <table class="gmail_footer appl_footer_bottom" cellspacing="0" cellpadding="0" border="0" align="center" style="display:inline-block;" >
+                                          <tbody>
+                                              <tr>
+                                                  <td>
+                                                    <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0t0n5u8M" class="border_right" style="padding:0 5px; color:#999999;font-size:12px; white-space:nowrap; text-decoration: none" target="_blank">帐户</a>
+                                                  </td>
+                                                  <td>
+                                                    <a href="http://new.itunes.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2g3u1c2p" class="border_right" style="padding:0 5px;color:#999999; font-size:12px; white-space:nowrap; text-decoration: none" target="_blank">订阅</a>
+                                                  </td>
+                                                  <td>
+                                                  <a href="https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=3EmBKns2xK%2F1F4Y7sjielOd9j8wpamwYoKFuLgZGHk63aX8U3OsFZB5IBw5Ws91r3N8TD4MfX5pqVfNOFTbOnQWIRXrTVUh2%2FMWA4zti2%2BtNYk6cRrnQQocfxVoaNZ6l1MCmYWjFV0qJU1eWTj794CmO49j9yZDaX9sz6fDLJ7yb%2BuhL8mhi2Ss%2BIDzp4kh6"  style="padding:0 5px;color:#999999; font-size:12px; white-space:nowrap; text-decoration: none" target="_blank">取消订阅</a>
+                                                  </td>
+                                              </tr>
+                                          </tbody>
+                                      </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    </body>
+</html>
+
+
+create a PraseMimeMessage object........
+CONTENTTYPE: multipart/alternative; 
+	boundary="----=_Part_33347301_1320300797.1508282586002"
+CONTENTTYPE: text/plain; charset=UTF-8
+CONTENTTYPE: text/X-watch-html; charset=UTF-8
+CONTENTTYPE: text/html; charset=UTF-8
+
+Apple Music - 会员资格，首首免费。只有音乐，没有广告。
+
+迎接音乐体验的全面升级。打开"音乐"App，免费试用 Apple Music。您也可随时取消订阅。
+ 
+
+
+
+开始三个月免费试用*
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2m0G2m3P
+
+拥有会员资格，便拥有数百万首歌曲，首首都可免费下载到您的资料库。
+iOS 11 的 Apple Music 拥有海量音乐曲库，任您尽情畅听，毫无广告干扰。
+
+
+
+
+您可以听听我们编辑的精选歌单，也可以建立您的专属播放列表。
+做自己的 DJ，用喜爱的歌曲建立您的专属播放列表，也可以让 Apple Music 根据您的喜好为你定制专属歌单。
+
+
+
+
+收听零广告的广播电台。
+您可以选择 Apple Music 上的任何歌曲、艺人或专辑，建立您的专属电台。所有音乐电台都没有广告，并可无限切歌。
+
+
+
+
+发现为您定制的音乐。
+听得越多，Apple Music 就越能准确地推荐您可能喜欢的歌曲、艺人和专辑。 
+
+
+
+无论在线离线，随时随地畅听无限。
+您可以向资料库中添加多达十万首歌曲，还可将歌曲离线下载，随时随地畅听，节省数据流量。
+
+
+即刻加入，随时取消。
+学生：RMB 5/月¹
+个人：RMB10/月
+家庭：RMB15/月²
+
+
+开始三个月免费试用*
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2g1x1d4P
+
+进一步了解
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0H9V0m3N
+
+*仅适用于新用户，需要注册。试用期结束后，会员资格将自动按月续订。
+
+¹仅限高校学生，需通过身份验证。
+
+²需要开启 iCloud "家庭共享". 请参阅  www.apple.com/cn/icloud/family-sharing/，以了解更多信息.
+
+某些内容要求特定的硬件或软件。需连接互联网，可能产生流量费用。内容价格与提供可能会发生变化。有关更多信息，请参阅 www.apple.com/cn/itunes/。Apple Music 是订阅服务，并非在所有国家和地区提供。 有关更多信息，请参阅 www.apple.com/cn/music。 
+如果您不想收到来自我们的电子邮件，或者更改了您的电子邮件地址，请点击这里。https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=015I0OGyfne9pdSfc5KcxIqcSFHDQBk9kAoSmnjwMcwExZkNV94hAM5jc6ZKz%2BZhim7ZwzfoLTCG3vB4q18Vll2cHyJ%2F4DKNL6aXOHplm6FpnO6CltFQSHUqQKHoyHppoMKa2ZQePAR%2Bfql6Ja%2BYwabGY%2FQF%2FLsWoCx9bxbFqqHF2oui17Rd%2BP0A8sfe1lQi
+
+版权所有 © 2017 Apple Distribution International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland
+
+隐私政策 
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2J3B4L5v
+
+条款与条件
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U7n4g2C
+
+技术支持
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0A1x2Q5M
+
+帐户
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0y3I7E3v
+
+订阅
+http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0j5I1R9C
+
+停止订阅
+https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=015I0OGyfne9pdSfc5KcxIqcSFHDQBk9kAoSmnjwMcwExZkNV94hAM5jc6ZKz%2BZhim7ZwzfoLTCG3vB4q18Vll2cHyJ%2F4DKNL6aXOHplm6FpnO6CltFQSHUqQKHoyHppoMKa2ZQePAR%2Bfql6Ja%2BYwabGY%2FQF%2FLsWoCx9bxbFqqHF2oui17Rd%2BP0A8sfe1lQi
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>
+&#x5728; iOS 11 &#x4E0A;&#x514D;&#x8D39;&#x8BD5;&#x7528; Apple Music
+</title>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css">
+html,body{height:100%; width:100%}
+body { background-color:#f2f2f2;}
+strong {font-weight:600}
+a,a.appl-link,a.appl-link:link {text-decoration:none;}
+a.appl-link:hover,a:hover {text-decoration:underline!important;}
+a.appl_button, a.appl_button{text-decoration:none!important}
+a.appl_button:hover{text-decoration:none!important}
+.appl_lowbrow a,#appl-footer a,a {color:inherit;}
+span{font-family:inherit!important; font-size:inherit!important;line-height:inherit!important}
+@media only screen and (max-device-width: 768px) {
+.appl_lowbrow,#appl-footer {-webkit-text-size-adjust:100%;}
+.appl_lowbrow a,#appl-footer a, a { color:inherit; }
+}
+* { font-family: system-ui, -apple-system,BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif; text-rendering: optimizelegibility;-webkit-font-smoothing: antialiased; }
+@media only screen and (min-device-width: 768px) {
+/* thai copy bug fix*/
+td.appl_app_title *{max-width:204px!important}
+}
+</style>
+<style type="text/css">
+/* Mobile Styles */
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+.appl_desktop{display:none!important;}
+* div.appl_mobile{
+height:auto!important; display:block!important;
+max-height:none!important; line-height:100%!important; 
+overflow:visible!important; width:auto!important;
+max-width:none!important;
+background-color:#fff!important; 
+font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif!important; 
+max-width:414px!important; 
+margin:0 auto; 
+}
+div.appl_mobile *{
+box-sizing:border-box; 
+text-align:center;
+-webkit-text-size-adjust:100%; 
+}
+div.appl_mobile .appl_div{
+width:100%; 
+margin:0 auto;
+padding:0 20px;
+text-rendering:optimizelegibility;
+}
+div.appl_mobile br.appl_desktop {display:none}
+div.appl_mobile .appl_100 {padding:0;}
+div.appl_mobile .appl_pad{ width:100%; padding:0 20px; }
+div.appl_mobile img {margin:0!important;max-width:100%!important}
+div.appl_mobile .appl_apps img{ margin:0 auto!important; }
+div.appl_mobile h1, div.appl_mobile h2, div.appl_mobile h3, div.appl_mobile p{margin: 10px 0;}
+div.appl_mobile h1, div.appl_mobile h2 { font-weight:500; color:#111;}
+div.appl_mobile p, div.appl_mobile a, div.appl_mobile h3 { font-weight:400; color:#333}
+/* banner-less logo*/
+div.appl_mobile img.appl_hero_logo {width:80px!important}
+div.appl_mobile .aapl_logo {padding-top:20px;padding-bottom:10px}
+div.appl_mobile .aapl_logo_eyebrow {padding-top:20px;padding-bottom:12px}
+div.appl_mobile .aapl_logo_center {padding-top:35px;padding-bottom:10px;}
+div.appl_mobile .aapl_logo_center img {margin:0 auto!important}
+/*larger banner-less headline*/
+div.appl_mobile .appl_headline_large h1 {font-size:32px!important; line-height:36px!important; letter-spacing: -.018em; }
+div.appl_mobile .appl_headline_large p.appl_headline_txt {margin-bottom:5px}
+div.appl_mobile .appl_headline_large p.appl_headline_txt, div.appl_mobile .appl_headline_large p.appl_headline_link a { font-size:18px!important; line-height:26px!important; letter-spacing: .016em!important;}
+div.appl_mobile .appl_headline_large p.appl_headline_link a img {width:12px!important}
+/* Top Feature module */
+div.appl_mobile h1 { font-size:30px; line-height:34px; letter-spacing: -0.014em; margin:15px 0 10px;}
+div.appl_mobile h1:only-child { margin:10px 0;}
+div.appl_mobile h1 *{ font-weight:inherit; font-size:inherit; line-height:inherit;}
+div.appl_mobile .appl_headline{ padding-top:25px; padding-bottom:26px; }
+div.appl_mobile .aapl_logo + .appl_headline{ padding-top:5px; }
+div.appl_mobile p.appl_sub_headline span{display:block; font-size:1.6em;line-height:1.2em;font-weight:400}
+div.appl_mobile p.appl_sub_headline {padding-top:20px;padding-bottom:10px}
+div.appl_mobile p.appl_headline_txt{font-size:17px;line-height:25px; letter-spacing: -0.022em;margin:10px 0;}
+div.appl_mobile p.appl_headline_txt:nth-child(2){}
+div.appl_mobile p.appl_headline_link a { font-size:17px;line-height:25px;padding-top:5px; padding-bottom:0px;letter-spacing: -0.022em; display:block;}
+div.appl_mobile p.appl_headline_link a:last-of-type {padding-top:8px;}
+div.appl_mobile p.appl_headline_link a img{ width:11px}
+div.appl_mobile p.appl_headline_link a.appl_larger_cta { font-size:18px;}
+/* Blurb module */
+div.appl_mobile .appl_cat_header{ padding-top:30px;padding-bottom:25px;}
+div.appl_mobile .appl_cat_header_img{ padding-bottom:0px;}
+div.appl_mobile .appl_cat_header h2{ font-size:28px; line-height:32px;letter-spacing:0.012em;margin:5px 0px 10px 0px;}
+div.appl_mobile .appl_cat_header h2 *{ font-size:inherit; font-weight:inherit; line-height:inherit;}
+div.appl_mobile .appl_cat_header p.appl_sub_headline span{font-size:20px;line-height:28px;font-weight:400}
+div.appl_mobile .appl_cat_header p{font-size:17px;line-height:25px; letter-spacing:-0.022em;}
+div.appl_mobile .appl_cat_header h2+p{margin-top:10px!important;}
+div.appl_mobile .appl_cat_header p.appl_headline_link a { font-size:17px!important; line-height:25px; letter-spacing:-0.022em;display:block; padding-bottom:0px }
+div.appl_mobile .appl_cat_header p.appl_headline_link a:first-child{padding-top:5px;} 
+div.appl_mobile .appl_cat_header p.appl_headline_link a:last-of-type{padding-top:8px;} 
+div.appl_mobile .appl_cat_header p.appl_headline_link a img{ width:11px!important}
+/*lockers*/
+div.appl_mobile .appl_apps{padding-bottom:0px;}
+div.appl_mobile h3, div.appl_mobile h3 a { font-size:19px; line-height:23px; margin:0 0 6px 0!important}
+div.appl_mobile h3 a ~ a{ font-size:14px!important; line-height:18px!important; margin:0 0 6px 0;}
+div.appl_mobile .appl_apps p {font-size:14px; color:#777777!important;line-height:18px; margin:0 15px 5px 15px;}
+div.appl_mobile .appl_apps p + p {margin:15px 0 5px 0!important;}
+div.appl_mobile .appl_apps > div {padding-bottom:40px;}
+div.appl_mobile .appl_apps img { width:100px!important; height:auto; margin:10px auto 17px;}
+div.appl_mobile .appl_cat_header + .appl_apps > div:first-child > div > a:first-child img,
+div.appl_mobile .appl_apps + .appl_apps > div:first-child > div > a:first-child img 
+{/*margin-top:0!important*/}
+div.appl_mobile div.app_mob_hairline + .appl_apps { margin-top: 40px}
+div.appl_mobile .appl_apps p img {width:9px!important;margin:0!important}
+div.appl_mobile .left *{margin-left:0!important;margin-right:0!important;text-align:left;}
+div.appl_mobile .left p{margin-left:0!important;margin-right:0!important;}
+div.appl_mobile .left img {margin-left:0!important;margin-right:0!important}
+div.appl_mobile .appl_apps.left div > a > img{margin-left:0!important;margin-right:0!important}
+div.appl_mobile span.appl_button a{
+white-space: nowrap;
+background-color:#0070c9; background: linear-gradient(#42a1ec, #0070c9);
+padding:0 15px!important; font-size:16px;
+font-weight:400; line-height:34px;color:#ffffff; text-decoration:none; display:inline-block;width:auto; 
+border-radius:4px; border:1px solid #007aca; box-sizing: border-box; min-width:120px;
+}
+div.appl_mobile span.appl_button a:hover {text-decoration:none}
+div.appl_mobile span.appl_button{ display:block; margin:20px auto 15px; }
+div.appl_mobile span.pink.appl_button a{background: none;background-color:#FF2D55;border:0 }
+div.appl_mobile .appl_button ~ .appl_button {margin-top:15px!important;}
+div.appl_mobile span.appl_button + br {display:block!important;}
+div.appl_mobile .appl_headline span.appl_button a{font-size:17px;}
+} 
+/*** new categories mobile ***/
+div.appl_mobile .appl_apps div.appl_albums > a > img,
+div.appl_mobile .appl_apps div.appl_artists > a > img,
+div.appl_mobile .appl_apps div.appl_author > a > img,
+div.appl_mobile .appl_apps div.appl_books > a > img,
+div.appl_mobile .appl_apps div.appl_movies > a > img,
+div.appl_mobile .appl_apps div.appl_playlists > a >img,
+div.appl_mobile .appl_apps div.appl_providers > a > img
+div.appl_mobile .appl_apps div.appl_tracks > a > img,
+div.appl_mobile .appl_apps div.appl_courses > a > img
+{ height:auto; margin:10px auto 17px!important; border:1px solid #eeeeee!important}
+div.appl_mobile .appl_apps div.appl_courses > a > img {border:0!important}
+div.appl_mobile .appl_apps div.appl_books > a > img,
+div.appl_mobile .appl_apps div.appl_movies > a > img{ width:110px!important; }
+div.appl_mobile .appl_apps div.appl_music_videos > a > img{border:1px solid #eeeeee!important; max-width:270px!important;width:100%!important; height:auto; margin:10px auto 17px!important;}
+/*footer*/
+div.appl_mobile .appl_footer{ margin-top:0px;padding-top:25px!important; padding-bottom:20px!important; background-color:#f2f2f2;}
+div.appl_mobile .appl_footer * {font-size:11px;line-height:15px!important; letter-spacing:-0.012em!important; font-weight:400;}
+div.appl_mobile .appl_footer p { margin:0 0 16px 0!important; text-align:center;color:#888!important;}
+div.appl_mobile .appl_footer a {color:#555555!important;text-decoration:none;}
+div.appl_footer p {margin:0 0 16px 0!important; text-align:center;color:#888!important;}
+div.appl_footer a {color:#555555!important;text-decoration:none;line-height:1.45em;}
+div.appl_footer div.appl_lowbrow_1{text-align:center!important; padding-bottom:15px;}
+div.appl_footer div.appl_lowbrow_2{padding-top:10px; padding-bottom:30px;}
+div.appl_footer div.appl_lowbrow_1 a,
+div.appl_footer div.appl_lowbrow_2 a { white-space:nowrap}
+div.appl_footer div.appl_social {margin-bottom:12px}
+div.appl_footer div.appl_social a {display:inline-block;margin:0 5px 0 5px}
+div.appl_footer div.appl_social a img {margin:0; border:0; height:22px; width:auto;}
+div.appl_footer div.appl_lowbrow_2{padding-top:10px; padding-bottom:10px;}
+div.appl_footer div.appl_lowbrow_2:last-child{padding-top:0px; padding-bottom:20px;}
+/*
+.appl_footer ul {list-style: none;float:left;padding-left:0; margin-bottom:10px;}
+.appl_footer ul {min-width:50%; padding-right:20px;}
+.appl_footer ul + ul {min-width:0;padding-right:0px;}
+.appl_footer ul li {text-align:left; padding-bottom: 2px;}
+div.appl_mobile .appl_lowbrow_1 {overflow:auto; border-top:1px solid #d7d7d7;border-bottom:1px solid #d7d7d7; margin-bottom:15px;}
+div.appl_mobile .appl_lowbrow_1:first-child {margin-bottom:0px;}
+div.appl_mobile .appl_social {margin-bottom:12px}
+div.appl_mobile .appl_social a {display:inline-block;margin:0 6px 0 6px}
+div.appl_mobile .appl_social a img {margin:0; border:0; width:22px; height:auto;}
+*/
+@media only screen and (max-width:480px) {
+div.appl_mobile .appl_pad{padding-left:26px;padding-right:26px;}
+div.appl_mobile .appl_apps div > a > img { width:130px!important; height:auto; margin:10px auto 17px!important;}
+div.appl_mobile .appl_apps div.appl_music_videos > a > img{ max-width:270px!important;width:100%!important; height:auto;}
+div.appl_mobile .appl_apps div.appl_books > a > img,
+div.appl_mobile .appl_apps div.appl_movies > a > img{width:160px!important; height:auto; }
+}
+@media only screen and (max-width:375px) {
+div.appl_mobile .appl_pad{padding-left:26px;padding-right:26px;}
+div.appl_mobile .appl_apps div > a > img { width:125px!important; height:auto; }
+div.appl_mobile .appl_music_videos div > a > img{ max-width:250px!important;width:100%!important; height:auto; }
+div.appl_mobile .appl_books div > a > img,
+div.appl_mobile .appl_movies div > a > img{width:120px!important; height:auto; }
+}
+@media only screen and (max-width: 320px) {
+div.appl_mobile .appl_pad{padding-left:20px;padding-right:20px;}
+div.appl_mobile .appl_apps div > a > img { width:120px!important; height:auto; }
+div.appl_mobile .appl_apps div.appl_music_videos > a > img{ max-width:210px!important;width:100%!important; height:auto; }
+div.appl_mobile .appl_apps div.appl_books > a > img,
+div.appl_mobile .appl_apps div.appl_movies > a > img{ width:135px!important; height:auto; }
+}
+</style>
+<!--[if gte mso 9]>
+<style type="text/css">
+table,td,div,p {font-family:BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif !important;line-height:normal !important}
+</style>
+<![endif]-->
+</head>
+<body rightmargin="0" leftmargin="0" bgcolor="#f2f2f2" style="margin:0;padding:0;">
+<div style="display:none; max-height:0; max-width:0;width:0;height:0; overflow:hidden;font-size:0px;color:#f2f2f2;">
+&#x8FCE;&#x63A5;&#x97F3;&#x4E50;&#x4F53;&#x9A8C;&#x7684;&#x5168;&#x9762;&#x5347;&#x7EA7;&#x3002;&#x6253;&#x5F00;"&#x97F3;&#x4E50;"App&#xFF0C;&#x514D;&#x8D39;&#x8BD5;&#x7528; Apple Music&#x3002;&#x60A8;&#x4E5F;&#x53EF;&#x968F;&#x65F6;&#x53D6;&#x6D88;&#x8BA2;&#x9605;&#x3002; <img src="http://new.applemusic.com/img/APPLE_EMAIL_LINK/spacer2.gif?v=2&a=7HIuPkl5dC9Xhyimjaz7ImRKa68gbGYztyy6LDo3w9IAt77SMvBf9SnfcbD5pkqKxh7J1grw%2FKXJCxL8bKM2hQGOUY4CoTdMtj2TPhdDLo0irg3FVjEnU7julV11miuopfF9WKg%2BKlypOjrSsYW2Ng%3D%3D" alt="" width="1" height="1" >
+</div>
+<div class="appl_desktop">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" class="appl_body appl_container_full">
+<tr>
+<td bgcolor="#f2f2f2" style="padding-top:12px;padding-left:10px;padding-right:10px;min-width:740px;" >
+<table width="740" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto; border-radius:8px;overflow:hidden;">
+<tr>
+<td width="740" valign="top" align="center" style="background-color:#ffffff;" class="appl_content">
+<table width="740" cellspacing="0" cellpadding="0" border="0" align="center" class="aapl_hero_img">
+<tr>
+<td class="appl_hero_img" valign="top" align="center" style="padding-bottom:0;">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U7n8I0C" style="text-decoration: none;"><img align="middle" width="740" alt="Apple Music - &#x4F1A;&#x5458;&#x8D44;&#x683C;&#xFF0C;&#x9996;&#x9996;&#x514D;&#x8D39;&#x3002;&#x53EA;&#x6709;&#x97F3;&#x4E50;&#xFF0C;&#x6CA1;&#x6709;&#x5E7F;&#x544A;&#x3002;" class="appl_hero_img1" style="display:block; margin:0 auto; border:0" src="http://is2.mzstatic.com/image/thumb/Features128/v4/75/71/3f/75713fe4-76e2-764b-4955-33026de8bc25/mza_6222118279601723921.jpg/1480x800sr-90.jpg" /></a>
+</td>
+</tr>
+</table>
+<table width="640" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_headline">
+<tr>
+<td align="center" style="padding-bottom:25px;padding-top:40px">
+<p style="margin-top:0px; margin-bottom:15px; font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#333333; font-size:20px;line-height:30px; font-weight:400;letter-spacing:0.017em" class="appl_headline_txt">
+&#x8FCE;&#x63A5;&#x97F3;&#x4E50;&#x4F53;&#x9A8C;&#x7684;&#x5168;&#x9762;&#x5347;&#x7EA7;&#x3002;&#x6253;&#x5F00;"&#x97F3;&#x4E50;"App&#xFF0C;&#x514D;&#x8D39;&#x8BD5;&#x7528; Apple Music&#x3002;&#x60A8;&#x4E5F;&#x53EF;&#x968F;&#x65F6;&#x53D6;&#x6D88;&#x8BA2;&#x9605;&#x3002;
+<br/> <br/>
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0e2b3J9h" style="text-decoration: none;"><img src="http://a398.phobos.apple.com/au/r30/Features118/v4/c4/4f/2a/c44f2a6e-0bdb-1e93-6775-56353e475804/mza_670058087277971035.png" width="100" style="vertical-align:middle"></a>
+</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="center" style="padding-top:10px; padding-bottom:15px">
+<table cellspacing="0" border="0" cellpadding="0" style="display:inline-block;border-spacing:0;border-collapse: separate; border:1px solid #FF2D55; border-radius:4px; overflow:hidden;background-color:#FF2D55; border-collapse:separate!important;min-width:0">
+<tr>
+<td height="33" align="center" valign="middle">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0e2b3J9h" class="appl-link appl_desktop" style="width:100%; display:block; font-size:17px;line-height:33px;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight:400; color:#ffffff;text-decoration:none!important; display:block;min-width:120px;">&nbsp;&nbsp;&nbsp;&nbsp;&#x5F00;&#x59CB;&#x4E09;&#x4E2A;&#x6708;&#x514D;&#x8D39;&#x8BD5;&#x7528;*&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;"><tr><td style="border-top:1px solid #dfdfdf; font-size:1px;line-height:2px;padding-bottom:0px">&nbsp;</td></tr></table>
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_cat_headline">
+<tr>
+<td align="center" style="padding-bottom:25px; padding-top:40px;">
+<h2 style="margin-top:0px; margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#111111; font-weight:500;font-size:34px;line-height:36px;letter-spacing:0.004em;border-bottom:0; text-align:center; width:100%;padding:0">
+&#x62E5;&#x6709;&#x4F1A;&#x5458;&#x8D44;&#x683C;&#xFF0C;&#x4FBF;&#x62E5;&#x6709;&#x6570;&#x767E;&#x4E07;&#x9996;&#x6B4C;&#x66F2;&#xFF0C;&#x9996;&#x9996;&#x90FD;&#x53EF;&#x514D;&#x8D39;&#x4E0B;&#x8F7D;&#x5230;&#x60A8;&#x7684;&#x8D44;&#x6599;&#x5E93;&#x3002;
+</h2>
+<p style="margin-top:0px;margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;font-weight:400;font-size:17px;color:#333333;line-height:26px;letter-spacing:-0.021em;margin-top:0 auto;color:#333333" class="appl_headline_txt">
+iOS 11 &#x7684; Apple Music &#x62E5;&#x6709;&#x6D77;&#x91CF;&#x97F3;&#x4E50;&#x66F2;&#x5E93;&#xFF0C;&#x4EFB;&#x60A8;&#x5C3D;&#x60C5;&#x7545;&#x542C;&#xFF0C;&#x6BEB;&#x65E0;&#x5E7F;&#x544A;&#x5E72;&#x6270;&#x3002;
+<br/>
+<img src="http://a1481.phobos.apple.com/au/r30/Features118/v4/bb/59/09/bb59095e-931f-1322-52ab-9a4bf464ec7c/mza_2490954023918274893.png" width="175" height="140" style="vertical-align:middle">
+</p>
+</td>
+</tr>
+</table>
+<table width="680" align="center" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto" class="">
+</table>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;"><tr><td style="border-top:1px solid #dfdfdf; font-size:1px;line-height:2px;padding-bottom:0px">&nbsp;</td></tr></table>
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_cat_headline">
+<tr>
+<td align="center" style="padding-bottom:25px; padding-top:40px;">
+<h2 style="margin-top:0px; margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#111111; font-weight:500;font-size:34px;line-height:36px;letter-spacing:0.004em;border-bottom:0; text-align:center; width:100%;padding:0">
+&#x60A8;&#x53EF;&#x4EE5;&#x542C;&#x542C;&#x6211;&#x4EEC;&#x7F16;&#x8F91;&#x7684;&#x7CBE;&#x9009;&#x6B4C;&#x5355;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x5EFA;&#x7ACB;&#x60A8;&#x7684;&#x4E13;&#x5C5E;&#x64AD;&#x653E;&#x5217;&#x8868;&#x3002;
+</h2>
+<p style="margin-top:0px;margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;font-weight:400;font-size:17px;color:#333333;line-height:26px;letter-spacing:-0.021em;margin-top:0 auto;color:#333333" class="appl_headline_txt">
+&#x505A;&#x81EA;&#x5DF1;&#x7684; DJ&#xFF0C;&#x7528;&#x559C;&#x7231;&#x7684;&#x6B4C;&#x66F2;&#x5EFA;&#x7ACB;&#x60A8;&#x7684;&#x4E13;&#x5C5E;&#x64AD;&#x653E;&#x5217;&#x8868;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x8BA9; Apple&nbsp;Music &#x6839;&#x636E;&#x60A8;&#x7684;&#x559C;&#x597D;&#x4E3A;&#x4F60;&#x5B9A;&#x5236;&#x4E13;&#x5C5E;&#x6B4C;&#x5355;&#x3002;
+<br/>
+<img src="http://a564.phobos.apple.com/au/r30/Features118/v4/7f/b0/9c/7fb09c9f-011d-153a-c8f7-0c7ee32b3b0f/mza_7934713212196556962.png" width="175" height="140" style="vertical-align:middle">
+</p>
+</td>
+</tr>
+</table>
+<table width="680" align="center" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto" class="">
+</table>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;"><tr><td style="border-top:1px solid #dfdfdf; font-size:1px;line-height:2px;padding-bottom:0px">&nbsp;</td></tr></table>
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_cat_headline">
+<tr>
+<td align="center" style="padding-bottom:25px; padding-top:40px;">
+<h2 style="margin-top:0px; margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#111111; font-weight:500;font-size:34px;line-height:36px;letter-spacing:0.004em;border-bottom:0; text-align:center; width:100%;padding:0">
+&#x6536;&#x542C;&#x96F6;&#x5E7F;&#x544A;&#x7684;&#x5E7F;&#x64AD;&#x7535;&#x53F0;&#x3002;
+</h2>
+<p style="margin-top:0px;margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;font-weight:400;font-size:17px;color:#333333;line-height:26px;letter-spacing:-0.021em;margin-top:0 auto;color:#333333" class="appl_headline_txt">
+&#x60A8;&#x53EF;&#x4EE5;&#x9009;&#x62E9; Apple Music &#x4E0A;&#x7684;&#x4EFB;&#x4F55;&#x6B4C;&#x66F2;&#x3001;&#x827A;&#x4EBA;&#x6216;&#x4E13;&#x8F91;&#xFF0C;&#x5EFA;&#x7ACB;&#x60A8;&#x7684;&#x4E13;&#x5C5E;&#x7535;&#x53F0;&#x3002;&#x6240;&#x6709;&#x97F3;&#x4E50;&#x7535;&#x53F0;&#x90FD;&#x6CA1;&#x6709;&#x5E7F;&#x544A;&#xFF0C;&#x5E76;&#x53EF;&#x65E0;&#x9650;&#x5207;&#x6B4C;&#x3002;
+<br/>
+<img src="http://a1376.phobos.apple.com/au/r30/Features128/v4/dc/f1/d9/dcf1d931-cfe9-4148-0ee4-7ffd3a612a46/mza_5440487579186109977.png" width="175" height="140" style="vertical-align:middle">
+</p>
+</td>
+</tr>
+</table>
+<table width="680" align="center" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto" class="">
+</table>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;"><tr><td style="border-top:1px solid #dfdfdf; font-size:1px;line-height:2px;padding-bottom:0px">&nbsp;</td></tr></table>
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_cat_headline">
+<tr>
+<td align="center" style="padding-bottom:25px; padding-top:40px;">
+<h2 style="margin-top:0px; margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#111111; font-weight:500;font-size:34px;line-height:36px;letter-spacing:0.004em;border-bottom:0; text-align:center; width:100%;padding:0">
+&#x53D1;&#x73B0;&#x4E3A;&#x60A8;&#x5B9A;&#x5236;&#x7684;&#x97F3;&#x4E50;&#x3002;
+</h2>
+<p style="margin-top:0px;margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;font-weight:400;font-size:17px;color:#333333;line-height:26px;letter-spacing:-0.021em;margin-top:0 auto;color:#333333" class="appl_headline_txt">
+&#x542C;&#x5F97;&#x8D8A;&#x591A;&#xFF0C;Apple Music &#x5C31;&#x8D8A;&#x80FD;&#x51C6;&#x786E;&#x5730;&#x63A8;&#x8350;&#x60A8;&#x53EF;&#x80FD;&#x559C;&#x6B22;&#x7684;&#x6B4C;&#x66F2;&#x3001;&#x827A;&#x4EBA;&#x548C;&#x4E13;&#x8F91;&#x3002; <br/>
+<img src="http://a52.phobos.apple.com/au/r30/Features128/v4/c8/0a/5d/c80a5dab-3bc7-4d60-4f57-2f5456fbe3ae/mza_2766299949839055681.png" width="175" height="140" style="vertical-align:middle">
+</p>
+</td>
+</tr>
+</table>
+<table width="680" align="center" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto" class="">
+</table>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;"><tr><td style="border-top:1px solid #dfdfdf; font-size:1px;line-height:2px;padding-bottom:0px">&nbsp;</td></tr></table>
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_cat_headline">
+<tr>
+<td align="center" style="padding-bottom:25px; padding-top:40px;">
+<h2 style="margin-top:0px; margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#111111; font-weight:500;font-size:34px;line-height:36px;letter-spacing:0.004em;border-bottom:0; text-align:center; width:100%;padding:0">
+&#x65E0;&#x8BBA;&#x5728;&#x7EBF;&#x79BB;&#x7EBF;&#xFF0C;&#x968F;&#x65F6;&#x968F;&#x5730;&#x7545;&#x542C;&#x65E0;&#x9650;&#x3002;
+</h2>
+<p style="margin-top:0px;margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;font-weight:400;font-size:17px;color:#333333;line-height:26px;letter-spacing:-0.021em;margin-top:0 auto;color:#333333" class="appl_headline_txt">
+&#x60A8;&#x53EF;&#x4EE5;&#x5411;&#x8D44;&#x6599;&#x5E93;&#x4E2D;&#x6DFB;&#x52A0;&#x591A;&#x8FBE;&#x5341;&#x4E07;&#x9996;&#x6B4C;&#x66F2;&#xFF0C;&#x8FD8;&#x53EF;&#x5C06;&#x6B4C;&#x66F2;&#x79BB;&#x7EBF;&#x4E0B;&#x8F7D;&#xFF0C;&#x968F;&#x65F6;&#x968F;&#x5730;&#x7545;&#x542C;&#xFF0C;&#x8282;&#x7701;&#x6570;&#x636E;&#x6D41;&#x91CF;&#x3002;
+</p>
+</td>
+</tr>
+</table>
+<table width="680" align="center" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto" class="">
+</table>
+<table width="690" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;"><tr><td style="border-top:1px solid #dfdfdf; font-size:1px;line-height:2px;padding-bottom:0px">&nbsp;</td></tr></table>
+<table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto" class="appl_cat_headline">
+<tr>
+<td align="center" style="padding-bottom:25px; padding-top:40px;">
+<h2 style="margin-top:0px; margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#111111; font-weight:500;font-size:34px;line-height:36px;letter-spacing:0.004em;border-bottom:0; text-align:center; width:100%;padding:0">
+&#x5373;&#x523B;&#x52A0;&#x5165;&#xFF0C;&#x968F;&#x65F6;&#x53D6;&#x6D88;&#x3002;
+</h2>
+<p style="margin-top:0px;margin-bottom:15px;font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;font-weight:400;font-size:17px;color:#333333;line-height:26px;letter-spacing:-0.021em;margin-top:0 auto;color:#333333" class="appl_headline_txt">
+&#x5B66;&#x751F;&#xFF1A;RMB 5/&#x6708;&sup1;
+<br/>&#x4E2A;&#x4EBA;&#xFF1A;RMB10/&#x6708;
+<br/>&#x5BB6;&#x5EAD;&#xFF1A;RMB15/&#x6708;&sup2;
+</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="center" style="padding-bottom:15px">
+<table cellspacing="0" cellpadding="0" border="0" style="display:inline-block">
+<tr>
+<td align="center" style="padding-left:5px;padding-right:5px;">
+<p style="margin-top:0; margin-bottom:2px; font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#333333; font-size:17px;line-height:26px;letter-spacing:-0.021em; font-weight:400;">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0A9l0I5v" class="appl-link appl_desktop" style="color:#FF2D55;text-decoration:none"><nobr>&#x5F00;&#x59CB;&#x4E09;&#x4E2A;&#x6708;&#x514D;&#x8D39;&#x8BD5;&#x7528;*<img width="11" alt="" border="0" class="more" style="margin:0 auto; border:0" src="http://a1769.phobos.apple.com/au/r30/Features118/v4/62/02/6c/62026c0e-e416-f98c-d737-b4c4277f215d/mza_365232141540938519.png" /></nobr></a>
+</p>
+</td>
+</tr>
+</table>
+<br />
+<table cellspacing="0" cellpadding="0" border="0" style="display:inline-block">
+<tr>
+<td align="center" style="padding-left:5px;padding-right:5px;">
+<p style="margin-top:0; margin-bottom:2px; font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;color:#333333; font-size:17px;line-height:26px;letter-spacing:-0.021em; font-weight:400;">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0y9q1Y5v" class="appl-link appl_desktop" style="color:#FF2D55;text-decoration:none"><nobr>&#x8FDB;&#x4E00;&#x6B65;&#x4E86;&#x89E3;<img width="11" alt="" border="0" class="more" style="margin:0 auto; border:0" src="http://a1769.phobos.apple.com/au/r30/Features118/v4/62/02/6c/62026c0e-e416-f98c-d737-b4c4277f215d/mza_365232141540938519.png" /></nobr></a>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="680" align="center" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto" class="">
+</table>
+</td>
+</tr>
+</table>
+<table width="740" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0 auto;" class="">
+<tr>
+<td align="center" style="padding-top:25px;">
+<table align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block">
+<tr>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding-bottom:60px;">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" align="center" id="appl-footer">
+<tr>
+<td align="center" style="padding-top:21px;padding-bottom:14px;padding-left:50px;padding-right:50px" class="appl_footer_text1 appl_footer_text appl_center">
+<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;color:#888888;font-size:11px;line-height:15px;max-width:680px;">
+*&#x4EC5;&#x9002;&#x7528;&#x4E8E;&#x65B0;&#x7528;&#x6237;&#xFF0C;&#x9700;&#x8981;&#x6CE8;&#x518C;&#x3002;&#x8BD5;&#x7528;&#x671F;&#x7ED3;&#x675F;&#x540E;&#xFF0C;&#x4F1A;&#x5458;&#x8D44;&#x683C;&#x5C06;&#x81EA;&#x52A8;&#x6309;&#x6708;&#x7EED;&#x8BA2;&#x3002;
+<br/><br/>
+&sup1;&#x4EC5;&#x9650;&#x9AD8;&#x6821;&#x5B66;&#x751F;&#xFF0C;&#x9700;&#x901A;&#x8FC7;&#x8EAB;&#x4EFD;&#x9A8C;&#x8BC1;&#x3002;
+<br/><br/>
+&sup2;&#x9700;&#x8981;&#x5F00;&#x542F; iCloud "&#x5BB6;&#x5EAD;&#x5171;&#x4EAB;". &#x8BF7;&#x53C2;&#x9605; <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/icloud/family-sharing/">www.apple.com/cn/icloud/family-sharing/</a>&#xFF0C;&#x4EE5;&#x4E86;&#x89E3;&#x66F4;&#x591A;&#x4FE1;&#x606F;.
+<br/><br/>
+&#x67D0;&#x4E9B;&#x5185;&#x5BB9;&#x8981;&#x6C42;&#x7279;&#x5B9A;&#x7684;&#x786C;&#x4EF6;&#x6216;&#x8F6F;&#x4EF6;&#x3002;&#x9700;&#x8FDE;&#x63A5;&#x4E92;&#x8054;&#x7F51;&#xFF0C;&#x53EF;&#x80FD;&#x4EA7;&#x751F;&#x6D41;&#x91CF;&#x8D39;&#x7528;&#x3002;&#x5185;&#x5BB9;&#x4EF7;&#x683C;&#x4E0E;&#x63D0;&#x4F9B;&#x53EF;&#x80FD;&#x4F1A;&#x53D1;&#x751F;&#x53D8;&#x5316;&#x3002;&#x6709;&#x5173;&#x66F4;&#x591A;&#x4FE1;&#x606F;&#xFF0C;&#x8BF7;&#x53C2;&#x9605; <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/itunes/">www.apple.com/cn/itunes/</a>&#x3002;Apple Music &#x662F;&#x8BA2;&#x9605;&#x670D;&#x52A1;&#xFF0C;&#x5E76;&#x975E;&#x5728;&#x6240;&#x6709;&#x56FD;&#x5BB6;&#x548C;&#x5730;&#x533A;&#x63D0;&#x4F9B;&#x3002; &#x6709;&#x5173;&#x66F4;&#x591A;&#x4FE1;&#x606F;&#xFF0C;&#x8BF7;&#x53C2;&#x9605; <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/music/">www.apple.com/cn/music</a>&#x3002; <br/><br/>
+&#x5982;&#x679C;&#x60A8;&#x4E0D;&#x60F3;&#x6536;&#x5230;&#x6765;&#x81EA;&#x6211;&#x4EEC;&#x7684;&#x7535;&#x5B50;&#x90AE;&#x4EF6;&#xFF0C;&#x6216;&#x8005;&#x66F4;&#x6539;&#x4E86;&#x60A8;&#x7684;&#x7535;&#x5B50;&#x90AE;&#x4EF6;&#x5730;&#x5740;&#xFF0C;&#x8BF7;<a style="color:#555555;text-decoration:none;" href="https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=015I0OGyfne9pdSfc5KcxIqcSFHDQBk9kAoSmnjwMcz7nty3AofALgo7SDFVW%2FURpuF9Pbv1JKFDx8iozyide8VuWj7fOLj8qN%2BaKt0T1ab7letaAipVbqgc1Jj93CBDQeZCpb0C7%2Fre225YS3LxWLY4txFU1w3TIl9A%2B9cP%2FytxNm03mOfgjl650IBCvN%2Bi">&#x70B9;&#x51FB;&#x8FD9;&#x91CC;</a>&#x3002;
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding-top:0;padding-bottom:15px;padding-left:50px;padding-right:50px" class="appl_center appl_footer_text appl_footer_text2">
+<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;color:#888888;font-size:11px;line-height:14px">
+&#x7248;&#x6743;&#x6240;&#x6709; &copy; 2017 Apple Distribution International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland
+</div>
+</td>
+</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr>
+<td align="center" style="font-family:Helvetica Neue,Helvetica,Lucida Grande,Arial,sans-serif;color:#999999;font-size:9px;line-height:1.32em;padding:0" class="appl_lowbrow">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U0n5x0T" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x9690;&#x79C1;&#x653F;&#x7B56; </a>
+&nbsp;|&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0t9l5C6h" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x6761;&#x6B3E;&#x4E0E;&#x6761;&#x4EF6;</a>
+&nbsp;|&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0H3d6Q3M" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x6280;&#x672F;&#x652F;&#x6301;</a>
+&nbsp;|&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2R6V3G3C" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x5E10;&#x6237;</a>
+&nbsp;|&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0X2B6v0p" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x8BA2;&#x9605;</a>
+&nbsp;|&nbsp;
+<a href="https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=015I0OGyfne9pdSfc5KcxIqcSFHDQBk9kAoSmnjwMcz7nty3AofALgo7SDFVW%2FURpuF9Pbv1JKFDx8iozyide8VuWj7fOLj8qN%2BaKt0T1ab7letaAipVbqgc1Jj93CBDQeZCpb0C7%2Fre225YS3LxWLY4txFU1w3TIl9A%2B9cP%2FytxNm03mOfgjl650IBCvN%2Bi" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x505C;&#x6B62;&#x8BA2;&#x9605;</a>
+</td>
+</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr>
+<td align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;color:#888888;font-size:11px;line-height:line-height:15px;padding:0" class="appl_lowbrow">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+</div>
+<div class="appl_mobile" style="display:none; max-height:0; max-width:0;width:0;height:0; font-size:0;overflow:hidden;">
+<div class="aapl_hero_img appl_100">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U7n8I0C" style="text-decoration: none;"><img width="100%" alt="Apple Music - &#x4F1A;&#x5458;&#x8D44;&#x683C;&#xFF0C;&#x9996;&#x9996;&#x514D;&#x8D39;&#x3002;&#x53EA;&#x6709;&#x97F3;&#x4E50;&#xFF0C;&#x6CA1;&#x6709;&#x5E7F;&#x544A;&#x3002;" class="appl_hero_img1" style="display:block; margin:0; border:0" src="http://is3.mzstatic.com/image/thumb/Features128/v4/75/71/3f/75713fe4-76e2-764b-4955-33026de8bc25/mza_6222118279601723921.jpg/640x344sr-90.jpg" /></a>
+</div>
+<div class="appl_headline appl_pad">
+<p style="" class="appl_headline_txt">&#x8FCE;&#x63A5;&#x97F3;&#x4E50;&#x4F53;&#x9A8C;&#x7684;&#x5168;&#x9762;&#x5347;&#x7EA7;&#x3002;&#x6253;&#x5F00;"&#x97F3;&#x4E50;"App&#xFF0C;&#x514D;&#x8D39;&#x8BD5;&#x7528; Apple Music&#x3002;&#x60A8;&#x4E5F;&#x53EF;&#x968F;&#x65F6;&#x53D6;&#x6D88;&#x8BA2;&#x9605;&#x3002;
+<br/> <br/>
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0e2b3J9h" style="text-decoration: none;"><img src="http://a398.phobos.apple.com/au/r30/Features118/v4/c4/4f/2a/c44f2a6e-0bdb-1e93-6775-56353e475804/mza_670058087277971035.png" width="100" style="vertical-align:middle"></a></p>
+<p style="" class="appl_headline_link">
+<span class="appl_button pink"><a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0e2b3J9h" class="appl-link" style="color: #FFFFFF; text-decoration:none">&#x5F00;&#x59CB;&#x4E09;&#x4E2A;&#x6708;&#x514D;&#x8D39;&#x8BD5;&#x7528;*</a></span>
+</p>
+</div>
+<div class="app_mob_hairline" style="background-color:#E3E3E3;height:1px;"></div>
+<div class="appl_pad appl_cat_header">
+<h2>&#x62E5;&#x6709;&#x4F1A;&#x5458;&#x8D44;&#x683C;&#xFF0C;&#x4FBF;&#x62E5;&#x6709;&#x6570;&#x767E;&#x4E07;&#x9996;&#x6B4C;&#x66F2;&#xFF0C;&#x9996;&#x9996;&#x90FD;&#x53EF;&#x514D;&#x8D39;&#x4E0B;&#x8F7D;&#x5230;&#x60A8;&#x7684;&#x8D44;&#x6599;&#x5E93;&#x3002;</h2>
+<p>iOS 11 &#x7684; Apple Music &#x62E5;&#x6709;&#x6D77;&#x91CF;&#x97F3;&#x4E50;&#x66F2;&#x5E93;&#xFF0C;&#x4EFB;&#x60A8;&#x5C3D;&#x60C5;&#x7545;&#x542C;&#xFF0C;&#x6BEB;&#x65E0;&#x5E7F;&#x544A;&#x5E72;&#x6270;&#x3002;
+<br/>
+<img src="http://a1481.phobos.apple.com/au/r30/Features118/v4/bb/59/09/bb59095e-931f-1322-52ab-9a4bf464ec7c/mza_2490954023918274893.png" width="175" height="140" style="vertical-align:middle"></p>
+</div>
+<div class="appl_pad appl_apps">
+</div>
+<div class="app_mob_hairline" style="background-color:#E3E3E3;height:1px;"></div>
+<div class="appl_pad appl_cat_header">
+<h2>&#x60A8;&#x53EF;&#x4EE5;&#x542C;&#x542C;&#x6211;&#x4EEC;&#x7F16;&#x8F91;&#x7684;&#x7CBE;&#x9009;&#x6B4C;&#x5355;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x5EFA;&#x7ACB;&#x60A8;&#x7684;&#x4E13;&#x5C5E;&#x64AD;&#x653E;&#x5217;&#x8868;&#x3002;</h2>
+<p>&#x505A;&#x81EA;&#x5DF1;&#x7684; DJ&#xFF0C;&#x7528;&#x559C;&#x7231;&#x7684;&#x6B4C;&#x66F2;&#x5EFA;&#x7ACB;&#x60A8;&#x7684;&#x4E13;&#x5C5E;&#x64AD;&#x653E;&#x5217;&#x8868;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x8BA9; Apple&nbsp;Music &#x6839;&#x636E;&#x60A8;&#x7684;&#x559C;&#x597D;&#x4E3A;&#x4F60;&#x5B9A;&#x5236;&#x4E13;&#x5C5E;&#x6B4C;&#x5355;&#x3002;
+<br/>
+<img src="http://a564.phobos.apple.com/au/r30/Features118/v4/7f/b0/9c/7fb09c9f-011d-153a-c8f7-0c7ee32b3b0f/mza_7934713212196556962.png" width="175" height="140" style="vertical-align:middle"></p>
+</div>
+<div class="appl_pad appl_apps">
+</div>
+<div class="app_mob_hairline" style="background-color:#E3E3E3;height:1px;"></div>
+<div class="appl_pad appl_cat_header">
+<h2>&#x6536;&#x542C;&#x96F6;&#x5E7F;&#x544A;&#x7684;&#x5E7F;&#x64AD;&#x7535;&#x53F0;&#x3002;</h2>
+<p>&#x60A8;&#x53EF;&#x4EE5;&#x9009;&#x62E9; Apple Music &#x4E0A;&#x7684;&#x4EFB;&#x4F55;&#x6B4C;&#x66F2;&#x3001;&#x827A;&#x4EBA;&#x6216;&#x4E13;&#x8F91;&#xFF0C;&#x5EFA;&#x7ACB;&#x60A8;&#x7684;&#x4E13;&#x5C5E;&#x7535;&#x53F0;&#x3002;&#x6240;&#x6709;&#x97F3;&#x4E50;&#x7535;&#x53F0;&#x90FD;&#x6CA1;&#x6709;&#x5E7F;&#x544A;&#xFF0C;&#x5E76;&#x53EF;&#x65E0;&#x9650;&#x5207;&#x6B4C;&#x3002;
+<br/>
+<img src="http://a1376.phobos.apple.com/au/r30/Features128/v4/dc/f1/d9/dcf1d931-cfe9-4148-0ee4-7ffd3a612a46/mza_5440487579186109977.png" width="175" height="140" style="vertical-align:middle"></p>
+</div>
+<div class="appl_pad appl_apps">
+</div>
+<div class="app_mob_hairline" style="background-color:#E3E3E3;height:1px;"></div>
+<div class="appl_pad appl_cat_header">
+<h2>&#x53D1;&#x73B0;&#x4E3A;&#x60A8;&#x5B9A;&#x5236;&#x7684;&#x97F3;&#x4E50;&#x3002;</h2>
+<p>&#x542C;&#x5F97;&#x8D8A;&#x591A;&#xFF0C;Apple Music &#x5C31;&#x8D8A;&#x80FD;&#x51C6;&#x786E;&#x5730;&#x63A8;&#x8350;&#x60A8;&#x53EF;&#x80FD;&#x559C;&#x6B22;&#x7684;&#x6B4C;&#x66F2;&#x3001;&#x827A;&#x4EBA;&#x548C;&#x4E13;&#x8F91;&#x3002; <br/>
+<img src="http://a52.phobos.apple.com/au/r30/Features128/v4/c8/0a/5d/c80a5dab-3bc7-4d60-4f57-2f5456fbe3ae/mza_2766299949839055681.png" width="175" height="140" style="vertical-align:middle"></p>
+</div>
+<div class="appl_pad appl_apps">
+</div>
+<div class="app_mob_hairline" style="background-color:#E3E3E3;height:1px;"></div>
+<div class="appl_pad appl_cat_header">
+<h2>&#x65E0;&#x8BBA;&#x5728;&#x7EBF;&#x79BB;&#x7EBF;&#xFF0C;&#x968F;&#x65F6;&#x968F;&#x5730;&#x7545;&#x542C;&#x65E0;&#x9650;&#x3002;</h2>
+<p>&#x60A8;&#x53EF;&#x4EE5;&#x5411;&#x8D44;&#x6599;&#x5E93;&#x4E2D;&#x6DFB;&#x52A0;&#x591A;&#x8FBE;&#x5341;&#x4E07;&#x9996;&#x6B4C;&#x66F2;&#xFF0C;&#x8FD8;&#x53EF;&#x5C06;&#x6B4C;&#x66F2;&#x79BB;&#x7EBF;&#x4E0B;&#x8F7D;&#xFF0C;&#x968F;&#x65F6;&#x968F;&#x5730;&#x7545;&#x542C;&#xFF0C;&#x8282;&#x7701;&#x6570;&#x636E;&#x6D41;&#x91CF;&#x3002;</p>
+</div>
+<div class="appl_pad appl_apps">
+</div>
+<div class="app_mob_hairline" style="background-color:#E3E3E3;height:1px;"></div>
+<div class="appl_pad appl_cat_header">
+<h2>&#x5373;&#x523B;&#x52A0;&#x5165;&#xFF0C;&#x968F;&#x65F6;&#x53D6;&#x6D88;&#x3002;</h2>
+<p>&#x5B66;&#x751F;&#xFF1A;RMB 5/&#x6708;&sup1;
+<br/>&#x4E2A;&#x4EBA;&#xFF1A;RMB10/&#x6708;
+<br/>&#x5BB6;&#x5EAD;&#xFF1A;RMB15/&#x6708;&sup2;</p>
+<p style="" class="appl_headline_link">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0A9l0I5v" class="appl-link" style="color:#FF2D55;text-decoration:none"><nobr>&#x5F00;&#x59CB;&#x4E09;&#x4E2A;&#x6708;&#x514D;&#x8D39;&#x8BD5;&#x7528;*<img width="8" alt="" border="0" class="more" style="margin:0 auto; border:0" src="http://a1769.phobos.apple.com/au/r30/Features118/v4/62/02/6c/62026c0e-e416-f98c-d737-b4c4277f215d/mza_365232141540938519.png" /></nobr></a>
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0y9q1Y5v" class="appl-link" style="color:#FF2D55;text-decoration:none"><nobr>&#x8FDB;&#x4E00;&#x6B65;&#x4E86;&#x89E3;<img width="8" alt="" border="0" class="more" style="margin:0 auto; border:0" src="http://a1769.phobos.apple.com/au/r30/Features118/v4/62/02/6c/62026c0e-e416-f98c-d737-b4c4277f215d/mza_365232141540938519.png" /></nobr></a>
+</div>
+<div class="appl_pad appl_apps">
+</div>
+<div class="appl_pad appl_footer">
+ <div class="appl_social">
+</div>
+<p>
+*&#x4EC5;&#x9002;&#x7528;&#x4E8E;&#x65B0;&#x7528;&#x6237;&#xFF0C;&#x9700;&#x8981;&#x6CE8;&#x518C;&#x3002;&#x8BD5;&#x7528;&#x671F;&#x7ED3;&#x675F;&#x540E;&#xFF0C;&#x4F1A;&#x5458;&#x8D44;&#x683C;&#x5C06;&#x81EA;&#x52A8;&#x6309;&#x6708;&#x7EED;&#x8BA2;&#x3002;
+<br/><br/>
+&sup1;&#x4EC5;&#x9650;&#x9AD8;&#x6821;&#x5B66;&#x751F;&#xFF0C;&#x9700;&#x901A;&#x8FC7;&#x8EAB;&#x4EFD;&#x9A8C;&#x8BC1;&#x3002;
+<br/><br/>
+&sup2;&#x9700;&#x8981;&#x5F00;&#x542F; iCloud "&#x5BB6;&#x5EAD;&#x5171;&#x4EAB;". &#x8BF7;&#x53C2;&#x9605; <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/icloud/family-sharing/">www.apple.com/cn/icloud/family-sharing/</a>&#xFF0C;&#x4EE5;&#x4E86;&#x89E3;&#x66F4;&#x591A;&#x4FE1;&#x606F;.
+<br/><br/>
+&#x67D0;&#x4E9B;&#x5185;&#x5BB9;&#x8981;&#x6C42;&#x7279;&#x5B9A;&#x7684;&#x786C;&#x4EF6;&#x6216;&#x8F6F;&#x4EF6;&#x3002;&#x9700;&#x8FDE;&#x63A5;&#x4E92;&#x8054;&#x7F51;&#xFF0C;&#x53EF;&#x80FD;&#x4EA7;&#x751F;&#x6D41;&#x91CF;&#x8D39;&#x7528;&#x3002;&#x5185;&#x5BB9;&#x4EF7;&#x683C;&#x4E0E;&#x63D0;&#x4F9B;&#x53EF;&#x80FD;&#x4F1A;&#x53D1;&#x751F;&#x53D8;&#x5316;&#x3002;&#x6709;&#x5173;&#x66F4;&#x591A;&#x4FE1;&#x606F;&#xFF0C;&#x8BF7;&#x53C2;&#x9605; <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/itunes/">www.apple.com/cn/itunes/</a>&#x3002;Apple Music &#x662F;&#x8BA2;&#x9605;&#x670D;&#x52A1;&#xFF0C;&#x5E76;&#x975E;&#x5728;&#x6240;&#x6709;&#x56FD;&#x5BB6;&#x548C;&#x5730;&#x533A;&#x63D0;&#x4F9B;&#x3002; &#x6709;&#x5173;&#x66F4;&#x591A;&#x4FE1;&#x606F;&#xFF0C;&#x8BF7;&#x53C2;&#x9605; <a style="color:#555555;text-decoration:none;" href="https://www.apple.com/cn/music/">www.apple.com/cn/music</a>&#x3002; <br/><br/>
+&#x5982;&#x679C;&#x60A8;&#x4E0D;&#x60F3;&#x6536;&#x5230;&#x6765;&#x81EA;&#x6211;&#x4EEC;&#x7684;&#x7535;&#x5B50;&#x90AE;&#x4EF6;&#xFF0C;&#x6216;&#x8005;&#x66F4;&#x6539;&#x4E86;&#x60A8;&#x7684;&#x7535;&#x5B50;&#x90AE;&#x4EF6;&#x5730;&#x5740;&#xFF0C;&#x8BF7;<a style="color:#555555;text-decoration:none;" href="https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=015I0OGyfne9pdSfc5KcxIqcSFHDQBk9kAoSmnjwMcz7nty3AofALgo7SDFVW%2FURpuF9Pbv1JKFDx8iozyide8VuWj7fOLj8qN%2BaKt0T1ab7letaAipVbqgc1Jj93CBDQeZCpb0C7%2Fre225YS3LxWLY4txFU1w3TIl9A%2B9cP%2FytxNm03mOfgjl650IBCvN%2Bi">&#x70B9;&#x51FB;&#x8FD9;&#x91CC;</a>&#x3002;
+</p>
+<p>&#x7248;&#x6743;&#x6240;&#x6709; &copy; 2017 Apple Distribution International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland</p>
+<div class="appl_lowbrow_1">
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0U0n5x0T" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x9690;&#x79C1;&#x653F;&#x7B56; </a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0t9l5C6h" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x6761;&#x6B3E;&#x4E0E;&#x6761;&#x4EF6;</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0H3d6Q3M" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x6280;&#x672F;&#x652F;&#x6301;</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI2R6V3G3C" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x5E10;&#x6237;</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://new.applemusic.com/r?v=2&la=zhs&lc=chn&a=yVtiGGRyjJy9X%2BIgFhzhERe1GBEvYhibfeZIkVj9yvpgwvqLOWrF0SuNRnycJHvruLldJ4NtDynB1U3NGKdwVb9R7wiLQ5c2NkePrZSnowI%3D&ct=aI0X2B6v0p" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x8BA2;&#x9605;</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://mynews.apple.com/subscriptions?v=2&la=zh_cn&a=015I0OGyfne9pdSfc5KcxIqcSFHDQBk9kAoSmnjwMcz7nty3AofALgo7SDFVW%2FURpuF9Pbv1JKFDx8iozyide8VuWj7fOLj8qN%2BaKt0T1ab7letaAipVbqgc1Jj93CBDQeZCpb0C7%2Fre225YS3LxWLY4txFU1w3TIl9A%2B9cP%2FytxNm03mOfgjl650IBCvN%2Bi" class="appl-link" style="color:#555555;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px;line-height:14px;white-space:nowrap">&#x505C;&#x6B62;&#x8BA2;&#x9605;</a>
+</div>
+<div class="appl_lowbrow_2">
+</div>
+</div>
+</div>
+<div class="appl_desktop" style=" white-space:nowrap!important; font:15px courier; color:#000000; line-height:0px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+</body>
+</html>
